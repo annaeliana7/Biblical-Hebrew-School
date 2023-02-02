@@ -39,17 +39,21 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 NAME OF PROJECT<a name="about-project"></a>
+# 📖 Biblical Hebrew School<a name="about-project"></a>
 
-**ToDo List** is a project ...complete sentence
+**Biblical Hebrew School**
+<br>
+
+The Biblical Hebrew School project is a complete web page with features like navigation, header, footer, main content, and slider. It has HTML structure, image files, JavaScript-based slider functionality, CSS styling, and is set up with webpack, linters. The project is deployed using GitHub Pages and focuses on the subject of Biblical Hebrew School.
 
 <br>
 
+
 ## 🛠 Built With <a name="built-with"></a>
-    Webpack
     HTML
     CSS
-    Javascript (ES6)
+    Javascript
+    Webpack
     Linters
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -62,7 +66,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[To-Do List](https://ADD LINK.git)
+[Biblical Hebrew School](https://annaeliana7.github.io/Biblical-Hebrew-School/dist)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,9 +77,9 @@
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone `https://github.com/annaeliana7/ADD LINK.git`
+- On the terminal run this command git clone `https://github.com/annaeliana7/Biblical-Hebrew-School.git`
 
-- Go to the repository folder using command prompt cd `NAME OF PROJECT`
+- Go to the repository folder using command prompt cd `Biblical Hebrew School`
 
 - Install the dev dependencies for linters run npm install.
 
@@ -96,9 +100,9 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://ADD LINK.git
+- On the terminal run this command git clone https://github.com/annaeliana7/Biblical-Hebrew-School.git
 
-- Go to the repository folder using command prompt cd NAME-OF-FILE
+- Go to the repository folder using command prompt cd Biblical Hebrew School
 
 - Install the dev dependencies for linters run npm install.
 --->
@@ -119,9 +123,9 @@ Anna Petras
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Implement some UX improvements: added transitions and/or animation.
+- Implement some UX improvements
 
-- Implement additional pages.
+- Implement slider functionality
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +134,7 @@ Anna Petras
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://ADD LINK.git).
+Feel free to check the [issues page](https://github.com/annaeliana7/Biblical-Hebrew-School/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,4 +174,3 @@ This project is [MIT](./LICENSE) licensed.
 💜
 <br>
 PETRAS FAMILY
- 
