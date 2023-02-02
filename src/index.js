@@ -1,4 +1,5 @@
 import './style.css';
+// eslint-disable-next-line import/no-unresolved
 import Swiper from 'swiper/bundle';
 
 const menuBtn = document.querySelector('#menu-btn');
@@ -76,3 +77,7 @@ const swiperReviews = new Swiper('.reviews-slider', {
     },
   },
 });
+
+swiperCourse();
+swiperPerks();
+swiperReviews();
